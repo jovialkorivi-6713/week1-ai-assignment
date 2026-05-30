@@ -3,6 +3,5 @@
 - Python
 - Git
 - GitHub
-
 ## Author
 Jovial Korivi
